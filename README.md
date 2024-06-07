@@ -1,3 +1,2 @@
 # devoups-batch
 mutturaj
-triveni
